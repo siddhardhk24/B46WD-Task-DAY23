@@ -6,6 +6,7 @@ function App() {
       <section class="pricing py-5">
   <div class="container">
     <div class="row">
+      {/* Card Container */}
       {/* <!-- Free Tier --> */}
       <div class="col-lg-4">
         <div class="card mb-5 mb-lg-0">
